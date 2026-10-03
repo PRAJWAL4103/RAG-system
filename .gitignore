@@ -1,0 +1,17 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Uploads and vector store (runtime data)
+uploads/
+vector_store/
+
+# IDE
+.vscode/
+.idea/
